@@ -1,0 +1,10 @@
+C:\Users\Nikita\source\repos\NewYear\NewYear\bin\Debug\NewYear.exe.config
+C:\Users\Nikita\source\repos\NewYear\NewYear\bin\Debug\NewYear.exe
+C:\Users\Nikita\source\repos\NewYear\NewYear\bin\Debug\NewYear.pdb
+C:\Users\Nikita\source\repos\NewYear\NewYear\obj\Debug\NewYear.csprojAssemblyReference.cache
+C:\Users\Nikita\source\repos\NewYear\NewYear\obj\Debug\NewYear.Properties.Resources.resources
+C:\Users\Nikita\source\repos\NewYear\NewYear\obj\Debug\NewYear.csproj.GenerateResource.cache
+C:\Users\Nikita\source\repos\NewYear\NewYear\obj\Debug\NewYear.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\source\repos\NewYear\NewYear\obj\Debug\NewYear.exe
+C:\Users\Nikita\source\repos\NewYear\NewYear\obj\Debug\NewYear.pdb
+C:\Users\Nikita\source\repos\NewYear\NewYear\obj\Debug\NewYear.MainForm.resources
